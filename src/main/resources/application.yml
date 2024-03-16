@@ -1,7 +1,7 @@
 server:
   port: 8080
   servlet:
-    context-path: /hibernum
+    context-path: /hibernum/api/v1
 spring:
   data:
     mongodb:
