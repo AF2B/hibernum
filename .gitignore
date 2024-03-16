@@ -33,6 +33,7 @@ build/
 ### Extras ###
 mvnw
 mvnw.cmd
+.DS_Store
 
 ### VS Code ###
 .vscode/
